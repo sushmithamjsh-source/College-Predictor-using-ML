@@ -1,0 +1,12 @@
+﻿# Over GitHub's 100 MB file limit
+Project Video.mp4
+
+# Generated model - rebuild with: python model.py
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
